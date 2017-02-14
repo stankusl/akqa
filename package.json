@@ -1,0 +1,29 @@
+{
+  "name": "akqa",
+  "version": "1.0.0",
+  "author": "Liudvikas Stankus <luke@codedemon.co.uk>",
+  "description": "AKQA Technical Test",
+  "private": false,
+  "scripts": {
+    "start": "gulp build && node server.js",
+    "postinstall": "bower install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bower": "latest",
+    "browser-sync": "latest",
+    "express": "latest",
+    "gulp": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-clean-css": "latest",
+    "gulp-concat": "latest",
+    "gulp-ignore": "latest",
+    "gulp-imagemin": "latest",
+    "gulp-rename": "latest",
+    "gulp-rigger": "latest",
+    "gulp-sass": "latest",
+    "gulp-uglify": "latest",
+    "gulp-watch": "latest",
+    "connect-modrewrite": "latest"
+  }
+}

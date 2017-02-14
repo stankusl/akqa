@@ -1,0 +1,6 @@
+[2/12/2017, 12:01:24 PM] layer "+- Buttons": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2/12/2017, 12:01:24 PM] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2/12/2017, 12:01:24 PM] layer "+- Buttons": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2/12/2017, 12:01:24 PM] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2/12/2017, 12:01:24 PM] layer "+- Buttons": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2/12/2017, 12:01:24 PM] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
