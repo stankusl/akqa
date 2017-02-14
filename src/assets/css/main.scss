@@ -40,11 +40,33 @@ article {
         td {
           font-size: 1.3em;
           padding: 5px 10px;
+          &.name{
+            padding-right: 40px;
+          }
+          .qty {
+
+          }
         }
       }
     }
 
 
+}
+
+.special-button {
+  display: block;
+  margin-right:20px;
+  background-color: #000066;
+  color: #fff;
+  padding: 10px 15px;
+  font-size: 1.7em;
+  box-shadow:3px 3px 8px #777;
+  border-radius:15px;
+  border: none;
+  font-weight: bold;
+  &:hover {
+    background-color: #3333ff;
+  }
 }
 
 footer {
